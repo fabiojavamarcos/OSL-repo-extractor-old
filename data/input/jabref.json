@@ -1,0 +1,34 @@
+{
+    "repo": "jabref/JabRef",
+    "auth_path": "/Users/fd252/Documents/GitHub/OSL-repo-extractor/data/auth/fabio_auth2.txt",
+    "output_path": "data/output/jabref/jabref.json",
+    "repo_data": {
+        "range": [
+            0,
+            10
+        ],
+        "state": "closed",
+        "comments": [
+            "body",
+            "userid",
+            "userlogin"
+        ],
+        "commits": [
+            "author_name",
+            "committer",
+            "date",
+            "files",
+            "message",
+            "sha"
+        ],
+        "issue": [
+            "body",
+            "closed_at",
+            "created_at",
+            "num_comments",
+            "title",
+            "userid",
+            "userlogin"
+        ]
+    }
+}
